@@ -4,8 +4,13 @@ Full Stack .NET Developer · Next.js · SignalR · Clean Architecture
 </h3>
 
 <p align="center">
+  <em>“The best time to start programming was yesterday. The second best time is now.”</em>
+</p>
+
+<p align="center">
   <a href="mailto:majidkhadim768@gmail.com">Email</a> ·
   <a href="https://www.linkedin.com/in/majid-khadim-529a17247/">LinkedIn</a> ·
+  <a href="https://majidkhadim.vercel.app">Portfolio</a> ·
   <a href="https://github.com/MajidKhadim">GitHub</a>
 </p>
 
@@ -116,4 +121,5 @@ I am particularly interested in roles involving **backend systems, real-time app
 ## Contact
 
 📧 **Email:** majidkhadim768@gmail.com  
-🔗 **LinkedIn:** https://www.linkedin.com/in/majid-khadim-529a17247
+🔗 **LinkedIn:** https://www.linkedin.com/in/majid-khadim-529a17247  
+🌐 **Portfolio:** https://majidkhadim.vercel.app
