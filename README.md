@@ -116,7 +116,7 @@ I prioritize:
 
 I am particularly interested in roles involving **backend systems, real-time applications, and full-stack product development**.
 
----
+----
 
 ## Contact
 
