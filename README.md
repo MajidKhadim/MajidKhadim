@@ -1,10 +1,10 @@
 <h1 align="center">Majid Khadim</h1>
 <h3 align="center">
-Full Stack .NET Developer · Next.js · SignalR · Clean Architecture
+Full Stack .NET Developer · Backend-Focused · APIs · SQL Server · ERP Workflows
 </h3>
 
 <p align="center">
-  <em>“The best time to start programming was yesterday. The second best time is now.”</em>
+  <em>Building real-world systems with performance, scalability, and clean architecture in mind.</em>
 </p>
 
 <p align="center">
@@ -18,108 +18,66 @@ Full Stack .NET Developer · Next.js · SignalR · Clean Architecture
 
 ## Profile
 
-I am a **Full Stack .NET Developer** with a strong backend focus, experienced in building **scalable, real-time, production systems**.
+I am a **Full Stack .NET Developer** with hands-on experience in building and maintaining **production-level applications**, with a strong focus on backend development.
 
-My day-to-day work involves:
-- Designing **clean, maintainable architectures**
-- Implementing **high-performance APIs**
-- Building **real-time features** using SignalR
-- Delivering reliable frontend experiences with **Next.js**
+Currently, I am working as a Full Stack Developer where I:
+- Develop and maintain backend systems using .NET Core and ASP.NET Core  
+- Design and implement RESTful APIs  
+- Optimize database performance using SQL Server and stored procedures  
+- Work on third-party integrations, including airline and GDS APIs  
 
-A significant portion of my professional work is within **organization and private repositories**, including B2B platforms and enterprise integrations.
+I also have experience working with **ERP-related financial workflows**, including:
+- Invoice processing  
+- Customer ledger management  
+- Payment recording and reconciliation  
+- Integration of transactional systems with ERP modules  
 
 ---
 
 ## Core Expertise
 
-**Backend Engineering**
-- ASP.NET Core (.NET 8)
-- C#, Entity Framework Core
-- Clean Architecture, CQRS
+### Backend Development
+- ASP.NET Core (.NET 6/8)
+- C#, Entity Framework Core, ADO.NET
+- RESTful API design & integrations
+- Clean Architecture (practical exposure)
 - SignalR (real-time systems)
-- RESTful API design
 
-**Frontend Engineering**
-- Next.js (SSR, App Router)
-- React.js
+### Frontend Development
 - Angular
+- React.js
+- Next.js
 - Tailwind CSS
 
-**Data & Infrastructure**
-- SQL Server (Stored Procedures, Performance Optimization)
-- Authentication & Authorization (JWT, RBAC)
-- Payment & Communication Integrations (Stripe, SendGrid)
-- Git & GitHub (team-based workflows)
+### Database & Systems
+- SQL Server (Stored Procedures, Query Optimization)
+- Database design & normalization
+- Transactional systems and data consistency
 
----
-
-## Selected Projects
-
-### Ideal Trip — Travel Booking Platform
-**Stack:** Next.js · .NET Core · SignalR · Stripe · SendGrid  
-
-A complete multi-role travel platform supporting transportation, accommodation, and tour bookings.
-
-**Highlights**
-- Real-time booking notifications via SignalR  
-- Secure payment workflows using Stripe  
-- Role-based access control for multiple business actors  
-- SEO-optimized frontend with server-side rendering  
-
----
-
-### Thiqoh — Crowdfunding & Investment Platform
-**Stack:** .NET 8 · Clean Architecture · CQRS · SQL Server · Next.js · SignalR  
-
-A scalable crowdfunding system focused on financial transparency and real-time tracking.
-
-**Highlights**
-- Clean Architecture with strict separation of concerns  
-- Wallet, investment, and transaction tracking  
-- JWT authentication with role-based authorization  
-- Real-time investment and balance updates  
-
----
-
-### OKHub — Real-Time Chat Application
-**Stack:** Next.js · .NET Core · SignalR  
-
-A WhatsApp-style real-time messaging system designed for scalability.
-
-**Highlights**
-- Private and group chat support  
-- Infinite scrolling and unread message tracking  
-- SignalR-based real-time delivery  
-- Production-ready frontend architecture  
-
----
-
-### SmartLib — RFID Library Management System
-**Stack:** .NET Core · React.js · SignalR · SQL Server  
-
-An IoT-enabled library system for real-time book tracking using RFID technology.
-
-**Highlights**
-- Live dashboards for RFID events  
-- Real-time alerts for misplaced items  
-- Optimized relational database design  
+### Integrations & Tools
+- Airline & GDS API integrations
+- JWT Authentication & Role-Based Access Control (RBAC)
+- Git & GitHub (team workflows)
 
 ---
 
 ## Professional Focus
 
-I prioritize:
-- **Code quality over quantity**
-- **Architecture over shortcuts**
-- **Stability, performance, and scalability**
-- Clear communication and team collaboration
+- Writing clean, maintainable, and scalable code  
+- Building efficient backend systems  
+- Ensuring data consistency and performance  
+- Solving real-world business problems  
 
-I am particularly interested in roles involving **backend systems, real-time applications, and full-stack product development**.
+I am particularly interested in roles involving:
+- Backend development (.NET)
+- API design and integrations
+- ERP and business systems
+- Scalable web applications
 
-----
+---
 
 ## Contact
 
 📧 **Email:** majidkhadim768@gmail.com  
 🔗 **LinkedIn:** https://www.linkedin.com/in/majid-khadim-529a17247  
-🌐 **Portfolio:** https://majidkhadim.vercel.app
+🌐 **Portfolio:** https://majidkhadim.vercel.app  
