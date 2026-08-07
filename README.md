@@ -137,5 +137,5 @@ I am continuously improving my expertise in **.NET, ASP.NET Core, Angular, NestJ
 
 📧 **Email:** [majidkhadim768@gmail.com](mailto:majidkhadim768@gmail.com)
 🔗 **LinkedIn:** https://www.linkedin.com/in/majid-khadim-529a17247/
-🌐 **Portfolio:** https://majidkhadim.vercel.app
+🌐 **Portfolio:** https://majid-khadim.vercel.app
 💻 **GitHub:** https://github.com/MajidKhadim
