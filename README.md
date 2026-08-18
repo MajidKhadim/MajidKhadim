@@ -11,7 +11,7 @@ Full-Stack .NET Developer · Backend-Focused · ASP.NET Core · Angular · APIs 
 <p align="center">
   <a href="mailto:majidkhadim768@gmail.com">Email</a> ·
   <a href="https://www.linkedin.com/in/majid-khadim-529a17247/">LinkedIn</a> ·
-  <a href="https://majidkhadim.vercel.app">Portfolio</a> ·
+  <a href="https://majid-khadim.vercel.app">Portfolio</a> ·
   <a href="https://github.com/MajidKhadim">GitHub</a>
 </p>
 
