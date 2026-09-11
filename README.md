@@ -21,7 +21,7 @@ Full-Stack .NET Developer · Backend-Focused · ASP.NET Core · Angular · APIs 
 
 I am a **Full-Stack .NET Developer** with 2+ years of professional experience building and maintaining **production-level web applications, REST APIs, and business systems**, with a strong focus on backend development and system integration.
 
-My primary technology stack includes **C#, .NET, ASP.NET Core, Angular, NestJS, SQL Server, ADO.NET, Entity Framework Core, and Microsoft Azure**.
+My primary technology stack includes **C#, .NET, ASP.NET Core, Angular, Next JS, SQL Server, ADO.NET, Entity Framework Core, and Microsoft Azure**.
 
 Currently, I work as a **.NET Developer at OK Travels & Tours**, where I contribute to **B2B travel systems** and work on complex airline and GDS integrations.
 
@@ -94,7 +94,7 @@ I also have experience developing **full-stack and backend-driven applications**
 
 ### Additional Technologies
 
-* **NestJS**
+* **Next JS**
 * **Node.js**
 * **Real-Time Applications**
 * **ERP & Business Workflows**
